@@ -5,3 +5,4 @@ This bot responds to users when they use the following commands:-
 &alone
 &joke
 &inspire
+&
